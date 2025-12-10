@@ -1,0 +1,15 @@
+C:\Myfolder\UTEHY\Python\DiscreteMathematics\c#\bin\Debug\net9.0\c#.exe
+C:\Myfolder\UTEHY\Python\DiscreteMathematics\c#\bin\Debug\net9.0\c#.deps.json
+C:\Myfolder\UTEHY\Python\DiscreteMathematics\c#\bin\Debug\net9.0\c#.runtimeconfig.json
+C:\Myfolder\UTEHY\Python\DiscreteMathematics\c#\bin\Debug\net9.0\c#.dll
+C:\Myfolder\UTEHY\Python\DiscreteMathematics\c#\bin\Debug\net9.0\c#.pdb
+C:\Myfolder\UTEHY\Python\DiscreteMathematics\c#\obj\Debug\net9.0\c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Myfolder\UTEHY\Python\DiscreteMathematics\c#\obj\Debug\net9.0\c#.AssemblyInfoInputs.cache
+C:\Myfolder\UTEHY\Python\DiscreteMathematics\c#\obj\Debug\net9.0\c#.AssemblyInfo.cs
+C:\Myfolder\UTEHY\Python\DiscreteMathematics\c#\obj\Debug\net9.0\c#.csproj.CoreCompileInputs.cache
+C:\Myfolder\UTEHY\Python\DiscreteMathematics\c#\obj\Debug\net9.0\c#.sourcelink.json
+C:\Myfolder\UTEHY\Python\DiscreteMathematics\c#\obj\Debug\net9.0\c#.dll
+C:\Myfolder\UTEHY\Python\DiscreteMathematics\c#\obj\Debug\net9.0\refint\c#.dll
+C:\Myfolder\UTEHY\Python\DiscreteMathematics\c#\obj\Debug\net9.0\c#.pdb
+C:\Myfolder\UTEHY\Python\DiscreteMathematics\c#\obj\Debug\net9.0\c#.genruntimeconfig.cache
+C:\Myfolder\UTEHY\Python\DiscreteMathematics\c#\obj\Debug\net9.0\ref\c#.dll
