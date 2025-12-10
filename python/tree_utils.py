@@ -56,7 +56,7 @@ def is_tree(graph: Graph) -> bool:
     return True
 
 
-def spanning_tree_dfs(graph: Graph, start=None):
+def spanning_tree_dfs(graph: Graph, start=None): # 🔴 BREAKPOINT 1
     """
     Sinh ra một cây bao trùm (spanning tree) bất kỳ bằng DFS.
 
@@ -73,23 +73,23 @@ def spanning_tree_dfs(graph: Graph, start=None):
         start = graph.vertices[0]
 
     visited = set()
-    tree_edges = []
+    tree_edges = [] # 🔴 BREAKPOINT 2
 
-    def dfs(u):
-        visited.add(u)
-        for v, w in graph.adj[u]:
-            if v not in visited:
-                # cạnh (u, v) là cạnh của spanning tree
-                tree_edges.append((u, v, w))
-                dfs(v)
+    def dfs(u): # 🔴 BREAKPOINT 3
+        visited.add(u) # 🔴 BREAKPOINT 4
+        for v, w in graph.adj[u]: # 🔴 BREAKPOINT 5
+            if v not in visited: # 🔴 BREAKPOINT 6
+                # cạnh (u, v) là cạnh của spanning tree 
+                tree_edges.append((u, v, w)) # 🔴 BREAKPOINT 7
+                dfs(v) # 🔴 BREAKPOINT 8
 
-    dfs(start)
+    dfs(start) # 🔴 BREAKPOINT 9
 
     # Nếu đồ thị không liên thông, spanning tree này chỉ bao phủ thành phần chứa 'start'
     return tree_edges
 
 
-def prim_mst(graph: Graph, start=None):
+def prim_mst(graph: Graph, start=None):  # 🔴 BREAKPOINT 1
     """
     Tìm Minimum Spanning Tree (MST) bằng thuật toán Prim.
 
@@ -109,28 +109,28 @@ def prim_mst(graph: Graph, start=None):
     if start is None:
         start = graph.vertices[0]
 
-    visited = set([start])
+    visited = set([start])  # 🔴 BREAKPOINT 2
     mst_edges = []
     pq = []  # heap: (w, u, v)
 
     # Đưa các cạnh xuất phát từ start vào heap
-    for v, w in graph.adj[start]:
-        heapq.heappush(pq, (w, start, v))
+    for v, w in graph.adj[start]:  # 🔴 BREAKPOINT 3
+        heapq.heappush(pq, (w, start, v))  # 🔴 BREAKPOINT 4
 
     # Lặp cho đến khi đã bao hết các đỉnh (hoặc hết cạnh)
-    while pq and len(visited) < len(graph.vertices):
-        w, u, v = heapq.heappop(pq)
+    while pq and len(visited) < len(graph.vertices):  # 🔴 BREAKPOINT 5
+        w, u, v = heapq.heappop(pq)   # 🔴 BREAKPOINT 6
         if v in visited:
             # nếu v đã thuộc MST rồi thì bỏ qua
             continue
 
         # Chọn cạnh (u, v) vào MST
-        visited.add(v)
-        mst_edges.append((u, v, w))
+        visited.add(v)  # 🔴 BREAKPOINT 7
+        mst_edges.append((u, v, w))  # 🔴 BREAKPOINT 8
 
         # Thêm các cạnh mới từ v vào heap
-        for x, wx in graph.adj[v]:
+        for x, wx in graph.adj[v]:  # 🔴 BREAKPOINT 9
             if x not in visited:
-                heapq.heappush(pq, (wx, v, x))
+                heapq.heappush(pq, (wx, v, x))  # 🔴 BREAKPOINT 10
 
-    return mst_edges
+    return mst_edges  # 🔴 BREAKPOINT 11
