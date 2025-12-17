@@ -1,0 +1,15 @@
+C:\Myfolder\UTEHY\DiscreteMathematics\cShape\Prim\Prim\bin\Debug\net8.0\Prim.exe
+C:\Myfolder\UTEHY\DiscreteMathematics\cShape\Prim\Prim\bin\Debug\net8.0\Prim.deps.json
+C:\Myfolder\UTEHY\DiscreteMathematics\cShape\Prim\Prim\bin\Debug\net8.0\Prim.runtimeconfig.json
+C:\Myfolder\UTEHY\DiscreteMathematics\cShape\Prim\Prim\bin\Debug\net8.0\Prim.dll
+C:\Myfolder\UTEHY\DiscreteMathematics\cShape\Prim\Prim\bin\Debug\net8.0\Prim.pdb
+C:\Myfolder\UTEHY\DiscreteMathematics\cShape\Prim\Prim\obj\Debug\net8.0\Prim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Myfolder\UTEHY\DiscreteMathematics\cShape\Prim\Prim\obj\Debug\net8.0\Prim.AssemblyInfoInputs.cache
+C:\Myfolder\UTEHY\DiscreteMathematics\cShape\Prim\Prim\obj\Debug\net8.0\Prim.AssemblyInfo.cs
+C:\Myfolder\UTEHY\DiscreteMathematics\cShape\Prim\Prim\obj\Debug\net8.0\Prim.csproj.CoreCompileInputs.cache
+C:\Myfolder\UTEHY\DiscreteMathematics\cShape\Prim\Prim\obj\Debug\net8.0\Prim.sourcelink.json
+C:\Myfolder\UTEHY\DiscreteMathematics\cShape\Prim\Prim\obj\Debug\net8.0\Prim.dll
+C:\Myfolder\UTEHY\DiscreteMathematics\cShape\Prim\Prim\obj\Debug\net8.0\refint\Prim.dll
+C:\Myfolder\UTEHY\DiscreteMathematics\cShape\Prim\Prim\obj\Debug\net8.0\Prim.pdb
+C:\Myfolder\UTEHY\DiscreteMathematics\cShape\Prim\Prim\obj\Debug\net8.0\Prim.genruntimeconfig.cache
+C:\Myfolder\UTEHY\DiscreteMathematics\cShape\Prim\Prim\obj\Debug\net8.0\ref\Prim.dll

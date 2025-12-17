@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Myfolder\\UTEHY\\DiscreteMathematics\\cShape\\Prim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1264551E-EFF3-4979-9E57-FD3DC1F469C3}|Prim\\Prim.csproj|c:\\myfolder\\utehy\\discretemathematics\\cshape\\prim\\prim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1264551E-EFF3-4979-9E57-FD3DC1F469C3}|Prim\\Prim.csproj|solutionrelative:prim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1264551E-EFF3-4979-9E57-FD3DC1F469C3}|Prim\\Prim.csproj|c:\\myfolder\\utehy\\discretemathematics\\cshape\\prim\\prim\\graph\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1264551E-EFF3-4979-9E57-FD3DC1F469C3}|Prim\\Prim.csproj|solutionrelative:prim\\graph\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1264551E-EFF3-4979-9E57-FD3DC1F469C3}|Prim\\Prim.csproj|c:\\myfolder\\utehy\\discretemathematics\\cshape\\prim\\prim\\algorithms\\primmst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1264551E-EFF3-4979-9E57-FD3DC1F469C3}|Prim\\Prim.csproj|solutionrelative:prim\\algorithms\\primmst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1264551E-EFF3-4979-9E57-FD3DC1F469C3}|Prim\\Prim.csproj|c:\\myfolder\\utehy\\discretemathematics\\cshape\\prim\\prim\\models\\mstedge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1264551E-EFF3-4979-9E57-FD3DC1F469C3}|Prim\\Prim.csproj|solutionrelative:prim\\models\\mstedge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1264551E-EFF3-4979-9E57-FD3DC1F469C3}|Prim\\Prim.csproj|c:\\myfolder\\utehy\\discretemathematics\\cshape\\prim\\prim\\models\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1264551E-EFF3-4979-9E57-FD3DC1F469C3}|Prim\\Prim.csproj|solutionrelative:prim\\models\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1264551E-EFF3-4979-9E57-FD3DC1F469C3}|Prim\\Prim.csproj|c:\\myfolder\\utehy\\discretemathematics\\cshape\\prim\\prim\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1264551E-EFF3-4979-9E57-FD3DC1F469C3}|Prim\\Prim.csproj|solutionrelative:prim\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1264551E-EFF3-4979-9E57-FD3DC1F469C3}|Prim\\Prim.csproj|c:\\myfolder\\utehy\\discretemathematics\\cshape\\prim\\prim\\algorithms\\dfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1264551E-EFF3-4979-9E57-FD3DC1F469C3}|Prim\\Prim.csproj|solutionrelative:prim\\algorithms\\dfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1264551E-EFF3-4979-9E57-FD3DC1F469C3}|Prim\\Prim.csproj|c:\\myfolder\\utehy\\discretemathematics\\cshape\\prim\\prim\\prim.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1264551E-EFF3-4979-9E57-FD3DC1F469C3}|Prim\\Prim.csproj|solutionrelative:prim\\prim.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edge.cs",
+              "DocumentMoniker": "C:\\Myfolder\\UTEHY\\DiscreteMathematics\\cShape\\Prim\\Prim\\Models\\Edge.cs",
+              "RelativeDocumentMoniker": "Prim\\Models\\Edge.cs",
+              "ToolTip": "C:\\Myfolder\\UTEHY\\DiscreteMathematics\\cShape\\Prim\\Prim\\Models\\Edge.cs",
+              "RelativeToolTip": "Prim\\Models\\Edge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T16:09:59.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MstEdge.cs",
+              "DocumentMoniker": "C:\\Myfolder\\UTEHY\\DiscreteMathematics\\cShape\\Prim\\Prim\\Models\\MstEdge.cs",
+              "RelativeDocumentMoniker": "Prim\\Models\\MstEdge.cs",
+              "ToolTip": "C:\\Myfolder\\UTEHY\\DiscreteMathematics\\cShape\\Prim\\Prim\\Models\\MstEdge.cs",
+              "RelativeToolTip": "Prim\\Models\\MstEdge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T16:10:42.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\Myfolder\\UTEHY\\DiscreteMathematics\\cShape\\Prim\\Prim\\Models\\Candidate.cs",
+              "RelativeDocumentMoniker": "Prim\\Models\\Candidate.cs",
+              "ToolTip": "C:\\Myfolder\\UTEHY\\DiscreteMathematics\\cShape\\Prim\\Prim\\Models\\Candidate.cs",
+              "RelativeToolTip": "Prim\\Models\\Candidate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T16:10:30.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Graph.cs",
+              "DocumentMoniker": "C:\\Myfolder\\UTEHY\\DiscreteMathematics\\cShape\\Prim\\Prim\\Graph\\Graph.cs",
+              "RelativeDocumentMoniker": "Prim\\Graph\\Graph.cs",
+              "ToolTip": "C:\\Myfolder\\UTEHY\\DiscreteMathematics\\cShape\\Prim\\Prim\\Graph\\Graph.cs",
+              "RelativeToolTip": "Prim\\Graph\\Graph.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T16:11:21.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Prim",
+              "DocumentMoniker": "C:\\Myfolder\\UTEHY\\DiscreteMathematics\\cShape\\Prim\\Prim\\Prim.csproj",
+              "RelativeDocumentMoniker": "Prim\\Prim.csproj",
+              "ToolTip": "C:\\Myfolder\\UTEHY\\DiscreteMathematics\\cShape\\Prim\\Prim\\Prim.csproj",
+              "RelativeToolTip": "Prim\\Prim.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-16T16:09:30.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Myfolder\\UTEHY\\DiscreteMathematics\\cShape\\Prim\\Prim\\Program.cs",
+              "RelativeDocumentMoniker": "Prim\\Program.cs",
+              "ToolTip": "C:\\Myfolder\\UTEHY\\DiscreteMathematics\\cShape\\Prim\\Prim\\Program.cs",
+              "RelativeToolTip": "Prim\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T16:08:08.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DFS.cs",
+              "DocumentMoniker": "C:\\Myfolder\\UTEHY\\DiscreteMathematics\\cShape\\Prim\\Prim\\Algorithms\\DFS.cs",
+              "RelativeDocumentMoniker": "Prim\\Algorithms\\DFS.cs",
+              "ToolTip": "C:\\Myfolder\\UTEHY\\DiscreteMathematics\\cShape\\Prim\\Prim\\Algorithms\\DFS.cs",
+              "RelativeToolTip": "Prim\\Algorithms\\DFS.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T16:22:32.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrimMst.cs",
+              "DocumentMoniker": "C:\\Myfolder\\UTEHY\\DiscreteMathematics\\cShape\\Prim\\Prim\\Algorithms\\PrimMst.cs",
+              "RelativeDocumentMoniker": "Prim\\Algorithms\\PrimMst.cs",
+              "ToolTip": "C:\\Myfolder\\UTEHY\\DiscreteMathematics\\cShape\\Prim\\Prim\\Algorithms\\PrimMst.cs",
+              "RelativeToolTip": "Prim\\Algorithms\\PrimMst.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T16:11:39.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
